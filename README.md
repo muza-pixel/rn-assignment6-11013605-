@@ -19,3 +19,8 @@ This is a React Native shopping cart app that allows users to view a list of ava
 #Local Storage
 
 This app uses AsyncStorage to store selected items locally on the device.
+#Screenshot  Of How The App Looks Like
+![WhatsApp Image 2024-07-03 at 22 47 50_9401537d](https://github.com/muza-pixel/rn-assignment6-11013605-/assets/149380233/f3b77199-f491-41d2-861f-5803103c8a70)
+![WhatsApp Image 2024-07-03 at 22 47 50_76b0169d](https://github.com/muza-pixel/rn-assignment6-11013605-/assets/149380233/c054fc8a-6919-4927-a0dd-09d26575d925)
+
+
